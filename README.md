@@ -9,3 +9,7 @@ Progress:
 - [ ] Flexbox
 - [ ] JavaScript Basics
 - [ ] The Back End
+
+Learning outcomes:
+- Git basics: cloning, adding files, committing, pushing, checking log and status, commit message best practices
+- HTML basics: general format/boilerplate, paragraphs, headers, strong, emphasis, lists (ordered and unordered), images and links
